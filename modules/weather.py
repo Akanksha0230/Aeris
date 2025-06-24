@@ -205,4 +205,3 @@ def parse_weather_input(user_input):
         return location, is_tomorrow
 
 
-
