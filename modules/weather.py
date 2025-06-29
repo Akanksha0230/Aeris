@@ -204,4 +204,3 @@ def parse_weather_input(user_input):
             location = location.strip().title()
         return location, is_tomorrow
 
-
