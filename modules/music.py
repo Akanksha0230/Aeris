@@ -155,4 +155,3 @@ class MusicModule:
         # Fetch and play the song
         return self.fetch_and_play_music(refined_query)
     
-    
