@@ -50,4 +50,5 @@ class SpeechModule:
             self.logger.info("Stopping TTS...")
             self.tts_engine.stop()
             self.tts_thread.join()
+
             
