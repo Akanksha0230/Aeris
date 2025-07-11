@@ -49,4 +49,3 @@ def music_prompt_template(user_input, few_shot_text):
         Query:
         """
      return prompt
-
