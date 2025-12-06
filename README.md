@@ -94,4 +94,3 @@ voice-assistant/
 ├── requirements.txt         # Dependencies
 └── README.md                # High-level project overview
 ```
-
