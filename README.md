@@ -95,4 +95,3 @@ voice-assistant/
 └── README.md                # High-level project overview
 ```
 
-
